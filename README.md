@@ -241,7 +241,7 @@ The dataset spans 18 primary industry classifications, led heavily by innovation
 ## 📊 Quantitative & Risk Analytics (Quant Perspective)
 
 To evaluate structural market behavior and capital efficiency, advanced quantitative models were executed in SQL:
-
+![Wealth_breadth_and_Skewness](Top_200_Billionaire_9.jpg)
 1. **Tail Risk & Power-Law Skewness:**
    - The **Top 5 principals** (2.5% of sample) control **$940.00B (14.76%)** of total wealth.
    - The **Top 10 principals** (5.0% of sample) control **$1,552.00B (24.37%)** of total wealth.
@@ -256,7 +256,7 @@ To evaluate structural market behavior and capital efficiency, advanced quantita
 3. **Sector Dispersion & Volatility:**
    - **Automotive** (Standard Deviation σ = $56.62 Billion) and **Technology** (Standard Deviation σ = $50.00 Billion) display the widest internal net-worth dispersion, reflecting "winner-take-all" market dynamics compared to lower-variance sectors.
 
-4. **Market Concentration (HHI Proxy):**
+5. **Market Concentration (HHI Proxy):**
    - Niche sectors such as **Telecom** ($102.0B avg) exhibit single-entity dominance, whereas **Technology** and **Finance** demonstrate deep, multi-principal liquidity pools.
 
 ---
@@ -323,8 +323,8 @@ Through aggregate functions, conditional segmentation, and statistical dispersio
 **Technical Skills:** SQL | T-SQL | Microsoft Excel | Power BI | Quantitative Data Analysis | Financial Modeling
 
 - [Email](mailto:elal.o.wilsons@gmail.com)
-- [LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/elisha-o-alal-131614318/))
+- [LinkedIn Profile](https://www.linkedin.com/in/elisha-o-alal-131614318/)
 
 ---
 
-*This project is part of my professional Data Analytics and Global Wealth Management portfolio.*
+*This project is part of my professional FadaQa FSP2.0 Data Analytics and Global Wealth Management portfolio.*
