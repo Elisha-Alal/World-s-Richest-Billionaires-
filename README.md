@@ -1,10 +1,11 @@
-# GLOBAL ULTRA-HIGH-NET-WORTH (UHNW) WEALTH DISTRIBUTION & ALPHA INVESTIGATION
- 🏦📊 
+# GLOBAL ULTRA HIGH NET WORTH (UHNW) WEALTH DISTRIBUTION & ALPHA INVESTIGATION  🏦📊 
+
  **Author:** Elisha Alal, Data Analyst UEFI Global 
  **Role:** Data Analyst, UEFI Global  
 **Tools:** SQL (SQLite / PostgreSQL), Relational Data Modeling, Quantitative Statistical Analysis  
 **Dataset:** Forbes Top 200 Global Billionaires (`TOP_200_BILLIONAIRES.csv`)
-![](introduction_image.png) 
+![](introduction.jpg) 
+
 ## Initial Dataset Exploration
 ![](introduction_image.png)
 ## CONTENTS
