@@ -1,7 +1,12 @@
 # World-s-Richest-Billionaires-
 FadaQa Data Analytics third quiz. 
 ## Initial Dataset Exploration
-*1.LED
+
+
+## CONTENTS
+* [Data Overview](Billionaires)
+  * [Usage](#usage)
+
 
 
 ## DATA OVERVIEW
