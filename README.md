@@ -7,7 +7,7 @@
 ![](introduction.jpg) 
 
 ## Initial Dataset Exploration
-![](introduction_image.png)
+![](dashboard.png)
 ## CONTENTS
 * [Data Overview](Billionaires)
 * [Project Overview](Project-Overview)
@@ -131,7 +131,7 @@ To evaluate structural risk and wealth generation efficiency, five quantitative 
    * **53 principals** exceed the dataset mean of $31.84B, confirming a heavily right-skewed power-law distribution.
    ![](introduction_image.png)
 2. **Alpha Generation Velocity ($\text{Net Worth} / \text{Age}$):**
-   ![](introduction_image.png)
+   ![](zuckerberg.jpg)
    * Measuring capital accumulation per year of life isolates high-velocity wealth creators from legacy compounding.
    * **Mark Zuckerberg** leads globally at **$4.54B/year** (Age 39, $177B), followed by **Elon Musk** at **$3.75B/year** (Age 52, $195B) and **Jeff Bezos** at **$3.23B/year** (Age 60, $194B).
 4. **Sector Dispersion & Volatility:**
