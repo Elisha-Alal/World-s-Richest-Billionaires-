@@ -3,7 +3,7 @@
 **Author:** Elisha Alal  
 **Role:** Data Analyst, UEFI Global  
 **Tools:** SQL (Microsoft SQL Server / SQLite / PostgreSQL), Relational Data Modeling, Quantitative Statistical Analysis  
-**Dataset:** Forbes Top 200 Global Billionaires [TOP_200_BILLIONAIRES](TOP_200_BILLIONAIRES.csv)
+**Dataset:** Forbes Top 200 Global Billionaires [***TOP 200 BILLIONAIRES***](TOP_200_BILLIONAIRES.csv)
 
 ![Introduction Banner](introduction.jpg)
 
@@ -254,7 +254,7 @@ To evaluate structural market behavior and capital efficiency, advanced quantita
    ![Mark Zuckerberg Alpha Profile](zuckerberg.jpg)
 
 3. **Sector Dispersion & Volatility:**
-   - **Automotive** (Standard Deviation $\sigma = \$56.62\text{ Billion}$) and **Technology** ($\sigma = \$50.00\text{ Billion}$) display the widest internal net-worth dispersion, reflecting "winner-take-all" market dynamics compared to lower-variance sectors.
+   - **Automotive** (Standard Deviation σ = $56.62 Billion) and **Technology** (Standard Deviation σ = $50.00 Billion) display the widest internal net-worth dispersion, reflecting "winner-take-all" market dynamics compared to lower-variance sectors.
 
 4. **Market Concentration (HHI Proxy):**
    - Niche sectors such as **Telecom** ($102.0B avg) exhibit single-entity dominance, whereas **Technology** and **Finance** demonstrate deep, multi-principal liquidity pools.
