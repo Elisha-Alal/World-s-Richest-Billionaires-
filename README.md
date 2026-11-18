@@ -1,4 +1,4 @@
-# World's-Richest-Billionaires-
+# WORLD'S RICHEST BILLIONAIRES 
 FadaQa Data Analytics third quiz. 
 ## Initial Dataset Exploration
 
